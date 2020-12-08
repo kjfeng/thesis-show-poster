@@ -103,8 +103,8 @@ html {
   background-position: top right;
   background-repeat: no-repeat;
   background-size: contain;
-  height: 550px;
-  margin-bottom: 5rem;
+  height: 100%;
+  margin-bottom: 3rem;
 }
 
 .footer-custom {
@@ -218,8 +218,9 @@ html {
   margin-bottom: 0.5rem;
 }
 
-.about {
+#about {
   margin-bottom: 5rem;
+  padding-top: 1rem;
 }
 
 .info-card {
